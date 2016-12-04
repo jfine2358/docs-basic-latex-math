@@ -1,8 +1,14 @@
 site_name: Basic LaTeX Math
 theme: readthedocs
 
+# jfine2358.github.io/:1 Mixed Content: The page at
+# 'https://jfine2358.github.io/docs-basic-latex-math/' was loaded over
+# HTTPS, but requested an insecure script
+# 'http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'.
+# This request has been blocked; the content must be served over HTTPS.
+
 extra_javascript:
-    - http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+    - https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
 
 markdown_extensions:
     - mdx_math
