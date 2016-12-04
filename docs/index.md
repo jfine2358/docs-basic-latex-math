@@ -1,5 +1,3 @@
 # Welcome
 
-## Subsection
-
-## Another
+## Please come back in January 2017
