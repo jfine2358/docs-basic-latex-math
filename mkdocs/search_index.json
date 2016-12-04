@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/",
-            "text": "Welcome\n\n\nSubsection\n\n\nAnother",
+            "text": "Welcome\n\n\nPlease come back in January 2017\n\n\nHere's some math\n\n\na^2 + b^2 = c^2",
             "title": "Home"
         },
         {
@@ -11,14 +11,9 @@
             "title": "Welcome"
         },
         {
-            "location": "/#subsection",
-            "text": "",
-            "title": "Subsection"
-        },
-        {
-            "location": "/#another",
-            "text": "",
-            "title": "Another"
+            "location": "/#please-come-back-in-january-2017",
+            "text": "Here's some math \na^2 + b^2 = c^2",
+            "title": "Please come back in January 2017"
         }
     ]
 }
