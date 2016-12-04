@@ -1,0 +1,24 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Welcome\n\n\nSubsection\n\n\nAnother",
+            "title": "Home"
+        },
+        {
+            "location": "/#welcome",
+            "text": "",
+            "title": "Welcome"
+        },
+        {
+            "location": "/#subsection",
+            "text": "",
+            "title": "Subsection"
+        },
+        {
+            "location": "/#another",
+            "text": "",
+            "title": "Another"
+        }
+    ]
+}
